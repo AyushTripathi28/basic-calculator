@@ -1,6 +1,6 @@
 # calc_cal
 
-A new Flutter application.
+CalcCal is a basic calculator app made using flutter. it is one of the first app i create while learning flutte
 
 ## Getting Started
 
